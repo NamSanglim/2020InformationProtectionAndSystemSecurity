@@ -4,7 +4,7 @@
 ## Project Member
 - [20171594 김선우](https://github.com/sunwoopia)
 - [20171726 황효빈](https://github.com/gyqls980)
-- [20191584 남상림](https://github.com/NamSanglim)
+- [20191584 남상림](https://github.com/Sanglim00)
 
 ## Project Goal
 PE파일이 주어졌을 때, 주어진 파일이 악성파일인지 정상파일인지 판별하는 이진 분류기 모델을 만드는 것
