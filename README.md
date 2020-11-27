@@ -1,5 +1,5 @@
 # :computer: 2020InformationProtectionAndSystemSecurity :computer:
->### Kookmin University 정보보호와 시스템보안 - AI 악성코드탐지 프로젝트 과제 
+Kookmin University 정보보호와 시스템보안 - AI 악성코드탐지 프로젝트 과제 
 
 ## :boy: Project Member  :girl:
 - [20171594 김선우](https://github.com/sunwoopia)
